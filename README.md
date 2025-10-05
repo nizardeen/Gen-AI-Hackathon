@@ -4,7 +4,7 @@
 
 **Medimate** is an intelligent companion designed to provide **personalized medicine guidance**. It helps healthcare professionals and patients determine whether a specific tablet or medication is suitable based on the **patient's medical history**.  
 
-The system considers various patient attributes such as chronic conditions, allergies, genetic disorders, and previous treatments to provide **tailored recommendations**. By leveraging AI and large language models, Medimate not only validates the suitability of a medication but also provides insights about potential adverse reactions, and expected recovery times. This makes it a **reliable support tool for informed medical decisions** in a personalized healthcare setting.
+The system considers various patient attributes such as chronic conditions, allergies, genetic disorders, and previous treatments to provide **whether the tablet is safe to consume or not**. By leveraging AI and large language models, Medimate not only validates the suitability of a medication but also provides insights about potential adverse reactions. This makes it a **reliable support tool for informed medical decisions** in a personalized healthcare setting.
 
 ## 🎥 Demo Video
 
