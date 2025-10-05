@@ -1,0 +1,11 @@
+llama-index-core==0.14.4
+llama-index-llms-cerebras==0.3.1
+llama-index-llms-openai==0.6.1
+llama-index-llms-openrouter==0.4.2
+llama-index-tools-mcp==0.4.1
+llama-index-workflows==2.6.0
+streamlit==1.50.0
+pillow==11.3.0
+pytesseract==0.3.13
+mcp==1.15.0
+psycopg2==2.9.10
